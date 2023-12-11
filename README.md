@@ -2,7 +2,7 @@
 <body>
 <head>
 <title>Мова HTML</title>
-
+<link rel="stylesheet" href="style.css"/>
 <p align="center">Кратюк Поліна Анатоліївна</p>
 <h1 align="center">Мова HTML</h1>
 <h2 align="center">Історія мови</h2>
